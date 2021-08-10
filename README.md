@@ -7,4 +7,4 @@ A. The performance of downstream (8 different tasks) vs of upstream based on mor
 
 
 ![](merged_fitting_error.png?raw=true "Title")
- B. the effect of sample size on power law curves. The curves are fitted to the convex hull of experiments as well as all data points from Figure~\ref{fig:pareto_complete}. We plot the predictions from the power law curve on the higher US accuracies to the ground truth (prediction target) and calculate fit and prediction accuracy as the number of samples changes. These errors are very small for both choices of data points and robust to the number of samples when the number of samples is as low as 500.
+ B. the effect of sample size on power law curves. The curves are fitted to the convex hull of experiments as well as all data points from Figure A. We plot the predictions from the power law curve on the higher US accuracies to the ground truth (prediction target) and calculate fit and prediction accuracy as the number of samples changes. These errors are very small for both choices of data points and robust to the number of samples when the number of samples is as low as 500.
