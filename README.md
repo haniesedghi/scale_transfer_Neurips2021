@@ -1,6 +1,6 @@
 # scale_transfer_Neurips2021
 
-
+![Alt text](covex_hull_with_size_and_fits.png?raw=true "Title")
 \begin{figure}[t]
 \vspace{-10pt}
     \centering
